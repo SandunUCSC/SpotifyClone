@@ -46,6 +46,7 @@ import song5 from  './song5.mp3'
 import song4 from  './song4.mp3'
 import song8 from  './song8.mp3'
 import song7 from  './song7.mp3'
+import song6 from  './song6.mp3'
 
 export const assets = {
     bell_icon,
@@ -164,7 +165,7 @@ export const songsData = [
         id:5,
         name: "Love Me Like",
         image: img6,
-        file:song3,
+        file:song6,
         desc:"• Ellie Goulding",
         duration:"04:09"
     },
