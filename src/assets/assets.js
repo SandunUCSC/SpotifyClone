@@ -38,6 +38,7 @@ import img13 from './img13.jpg'
 import img14 from './img14.jpg'
 import img15 from './img15.jpg'
 import img16 from './img16.jpg'
+import img17 from './img17.jpg'
 import song1 from  './song1.mp3'
 import song2 from  './song2.mp3'
 import song3 from  './song3.mp3'
@@ -73,42 +74,42 @@ export const albumsData = [
     {   
         id:0,
         name: "Top 50 Global",
-        image: img8,
+        image: img9,
         desc:"Your weekly update of the most played tracks",
         bgColor:"#2a4365"
     },
     {   
         id:1,
         name: "Top 50 India",
-        image: img9,
+        image: img10,
         desc:"Your weekly update of the most played tracks",
         bgColor:"#22543d"
     },
     {   
         id:2,
         name: "Trending India",
-        image: img10,
+        image: img11,
         desc:"Your weekly update of the most played tracks",
         bgColor:"#742a2a"
     },
     {   
         id:3,
         name: "Trending Global",
-        image: img16,
+        image: img17,
         desc:"Your weekly update of the most played tracks",
         bgColor:"#44337a"
     },
     {   
         id:4,
-        name: "Mega Hits,",
-        image: img11,
+        name: "Mega Hits",
+        image: img12,
         desc:"Your weekly update of the most played tracks",
         bgColor:"#234e52"
     },
     {   
         id:5,
         name: "Happy Favorites",
-        image: img15,
+        image: img16,
         desc:"Your weekly update of the most played tracks",
         bgColor:"#744210"
     }
@@ -117,66 +118,66 @@ export const albumsData = [
 export const songsData = [
     {
         id:0,
-        name: "Song One",
+        name: "Sitha Sanasuma",
         image: img1,
-        file:song1,
-        desc:"Put a smile on your face with these happy tunes",
-        duration:"3:00"
+        file:song3,
+        desc:"• Vindy Goonathilake - Sitha sanasuma new",
+        duration:"04:31"
     },
     {
         id:1,
-        name: "Song Two",
-        image: img2,
+        name: "Numba Ha",
+        image: img2, 
         file:song2,
-        desc:"Put a smile on your face with these happy tunes",
-        duration:"2:20"
+        desc:"• Dilu Beats - Numba ha modern classical",
+        duration:"02:38"
     },
     {
         id:2,
-        name: "Song Three",
+        name: "Ma Ithin Yanna",
         image: img3,
         file:song3,
-        desc:"Put a smile on your face with these happy tunes",
-        duration:"2:32"
+        desc:"• Ridma Weerawardena cover verion song",
+        duration:"03:20"
     },
     {
         id:3,
-        name: "Song Four",
+        name: "Sanda Wage Pena",
         image: img4,
         file:song1,
-        desc:"Put a smile on your face with these happy tunes",
-        duration:"2:50"
+        desc:"• Hana Shafa & Dilo",
+        duration:"02:59"
     },
     {
         id:4,
-        name: "Song Five",
+        name: "Dawasak Ewi Apith",
         image: img5,
         file:song2,
-        desc:"Put a smile on your face with these happy tunes",
-        duration:"3:10"
+        desc:"• Piyath Rajapaksha & Lahiru De Costa",
+        duration:"03:24"
     },
     {
         id:5,
-        name: "Song Six",
-        image: img14    ,
+        name: "Love Me Like",
+        image: img6,
         file:song3,
-        desc:"Put a smile on your face with these happy tunes",
-        duration:"2:45"
+        desc:"• Ellie Goulding",
+        duration:"04:09"
     },
     {
         id:6,
-        name: "Song Seven",
+        name: "Ahasata Sonduru",
         image: img7,
-        file:song1,
-        desc:"Put a smile on your face with these happy tunes",
-        duration:"2:18"
+        file:song2,
+        desc:"• Nelu Adhikari ft Kashyapa Dissanayake",
+        duration:"06:13"
     },
     {
         id:7,
-        name: "Song Eight",
-        image: img12,
-        file:song2,
-        desc:"Put a smile on your face with these happy tunes",
-        duration:"2:35"
+        name: "Mal Pan Podak",
+        image:  img8,
+        file:song1,
+        desc:"• BNS (Album: Mage Sihine Obai)",
+        duration:"04:58"
     }
 ]
