@@ -42,7 +42,8 @@ import img17 from './img17.jpg'
 import song1 from  './song1.mp3'
 import song2 from  './song2.mp3'
 import song3 from  './song3.mp3'
-import song5 from './song5.mp3'
+import song5 from  './song5.mp3'
+import song4 from  './song4.mp3'
 
 export const assets = {
     bell_icon,
@@ -131,13 +132,13 @@ export const songsData = [
         image: img2, 
         file:song2,
         desc:"• Windy Goonathilake - Sitha Sanasuma new",
-        duration:"02:38"
+        duration:"04:31"
     },
     {
         id:2,
         name: "Ma Ithin Yanna",
         image: img3,
-        file:song1,
+        file:song3,
         desc:"• Ridma Weerawardena cover version song",
         duration:"03:20"
     },
@@ -145,7 +146,7 @@ export const songsData = [
         id:3,
         name: "Sanda Wage Pena",
         image: img4,
-        file:song3,
+        file:song4,
         desc:"• Hana Shafa & Dilo",
         duration:"02:59"
     },
