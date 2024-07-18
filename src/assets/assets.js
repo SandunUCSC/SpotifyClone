@@ -44,6 +44,7 @@ import song2 from  './song2.mp3'
 import song3 from  './song3.mp3'
 import song5 from  './song5.mp3'
 import song4 from  './song4.mp3'
+import song8 from  './song8.mp3'
 
 export const assets = {
     bell_icon,
@@ -176,10 +177,10 @@ export const songsData = [
     },
     {
         id:7,
-        name: "Mal Pan Podak",
+        name: "Ahi Dara Pawa",
         image:  img8,
-        file:song1,
-        desc:"• BNS (Album: Mage Sihine Obai)",
+        file:song8,
+        desc:"• Thanura Madhugeeth new song",
         duration:"04:58"
     }
 ]
