@@ -118,25 +118,25 @@ export const albumsData = [
 export const songsData = [
     {
         id:0,
-        name: "Sitha Sanasuma",
+        name: "Numba Ha",
         image: img1,
-        file:song3,
-        desc:"• Vindy Goonathilake - Sitha sanasuma new",
-        duration:"04:31"
+        file:song1,
+        desc:"• Dilu Beats - Numba ha modern classical",
+        duration:"02:38"
     },
     {
         id:1,
-        name: "Numba Ha",
+        name: "Sitha Sanasuma",
         image: img2, 
         file:song2,
-        desc:"• Dilu Beats - Numba ha modern classical",
+        desc:"• DVindy Goonathilake - Sitha sanasuma new",
         duration:"02:38"
     },
     {
         id:2,
         name: "Ma Ithin Yanna",
         image: img3,
-        file:song3,
+        file:song1,
         desc:"• Ridma Weerawardena cover verion song",
         duration:"03:20"
     },
@@ -144,7 +144,7 @@ export const songsData = [
         id:3,
         name: "Sanda Wage Pena",
         image: img4,
-        file:song1,
+        file:song3,
         desc:"• Hana Shafa & Dilo",
         duration:"02:59"
     },
