@@ -42,6 +42,7 @@ import img17 from './img17.jpg'
 import song1 from  './song1.mp3'
 import song2 from  './song2.mp3'
 import song3 from  './song3.mp3'
+import song5 from './song5.mp3'
 
 export const assets = {
     bell_icon,
@@ -121,7 +122,7 @@ export const songsData = [
         name: "Numba Ha",
         image: img1,
         file:song1,
-        desc:"• Dilu Beats - Numba ha modern classical",
+        desc:"• Dilu Beats - Numba Ha modern classical",
         duration:"02:38"
     },
     {
@@ -129,7 +130,7 @@ export const songsData = [
         name: "Sitha Sanasuma",
         image: img2, 
         file:song2,
-        desc:"• DVindy Goonathilake - Sitha sanasuma new",
+        desc:"• Windy Goonathilake - Sitha Sanasuma new",
         duration:"02:38"
     },
     {
@@ -137,7 +138,7 @@ export const songsData = [
         name: "Ma Ithin Yanna",
         image: img3,
         file:song1,
-        desc:"• Ridma Weerawardena cover verion song",
+        desc:"• Ridma Weerawardena cover version song",
         duration:"03:20"
     },
     {
@@ -152,7 +153,7 @@ export const songsData = [
         id:4,
         name: "Dawasak Ewi Apith",
         image: img5,
-        file:song2,
+        file:song5,
         desc:"• Piyath Rajapaksha & Lahiru De Costa",
         duration:"03:24"
     },
